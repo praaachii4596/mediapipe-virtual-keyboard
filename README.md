@@ -53,6 +53,15 @@ Press **Esc** to exit the application safely 🔚.
 
 ---
 
+## 🌐 Demo Page
+
+You can view the project demo page hosted on GitHub Pages here:  
+[https://praaachii4596/mediapipe-virtual-keyboard/](https://praaachii4596/mediapipe-virtual-keyboard/)
+
+Explore live demos, screenshots, and setup instructions on the page!
+
+---
+
 ## 💡 Notes & Tips
 
 - Keyboard window is click-through for seamless multitasking 🖱️.
@@ -63,7 +72,7 @@ Press **Esc** to exit the application safely 🔚.
 
 ## 📄 License
 
-This project is available under the MIT License. See LICENSE file for details.
+This project is available under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -72,5 +81,6 @@ This project is available under the MIT License. See LICENSE file for details.
 - Built with the power of [Mediapipe](https://mediapipe.dev/) by Google 🚀.
 - Utilizing [OpenCV](https://opencv.org/) for computer vision magic 🧙‍♂️.
 - Thanks to [pynput](https://pynput.readthedocs.io) for keyboard input automation ⌨️.
+
 
 
